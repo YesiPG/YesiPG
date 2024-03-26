@@ -1,6 +1,6 @@
-![Yesica Perlaza Guerrero](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Yesica Perlaza Guerrero](https://www.eslabon.digital/wp-content/uploads/2021/02/diseno-web.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm YesiPG</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="center">Hey there! I'm YesiPG</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm YesiPG -->
 
@@ -8,9 +8,10 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I am on a constant path of learning about web development.\
-✍️ &nbsp;In my free time, I dedicate myself to reading and watching videos about the new technologies that come out every year.\
+✍️ &nbsp;In my free time, I dedicate myself to reading and watching videos about the new technologies that come out every year.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://png.pngtree.com/png-vector/20190611/ourmid/pngtree-web-development-illustration-modern-can-be-used-for-landing-pages-web-png-image_1496213.jpg" align="right"/>
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -24,6 +25,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<br><br><br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -33,6 +35,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
