@@ -34,8 +34,8 @@
 <!-- <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   https://shields.io/badges
   -->
-<a href="mailto:perlazayesik@gmail.com"><img src="https://img.shields.io/badge/Gmail?style=flat&logo=gmail&logoColor=white&labelColor=blue&color=red"/></a>
-<a href="https://www.instagram.com/yesica_perlaza/"><img src="https://img.shields.io/badge/Yesica-Perlaza?style=flat&logo=computrabajo&logoColor=white&labelColor=blue"/></a>
-<a href="https://www.facebook.com/yessica.perlaza.3"><img src="https://img.shields.io/badge/facebook?style=flat&logo=facebook&logoColor=white"/></a>
+<a href="mailto:perlazayesik@gmail.com">Gmail</a>
+<a href="https://www.instagram.com/yesica_perlaza/">Instragram</a>
+<a href="https://www.facebook.com/yessica.perlaza.3">Facebook</a>
 </p>
 
